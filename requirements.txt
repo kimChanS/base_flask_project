@@ -1,0 +1,11 @@
+Flask==0.11
+Flask-SQLAlchemy==2.1
+Flask-Mail==0.9.1
+Flask-Migrate==1.8.0
+Flask-Admin==1.4.0
+Flask-BabelEx==0.9.3
+psycopg2==2.6.1
+Flask-WTF==0.12
+WTForms-Components==0.10.0
+redis==2.10.5
+passlib==1.6.5
